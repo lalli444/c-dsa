@@ -1,2 +1,1 @@
-
-    Linkedlist ll;
+x
